@@ -1,0 +1,2 @@
+[29-Mar-2019 17:27:36 UTC] PHP Warning:  move_uploaded_file(uploads/Headpats_Poster.png): failed to open stream: No such file or directory in /home/snailgod/public_html/naccal.com/headpatsHQ/post_file.php on line 38
+[29-Mar-2019 17:27:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxcmrMJ' to 'uploads/Headpats_Poster.png' in /home/snailgod/public_html/naccal.com/headpatsHQ/post_file.php on line 38
