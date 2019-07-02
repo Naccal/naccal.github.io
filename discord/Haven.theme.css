@@ -20,14 +20,14 @@
 }
 
 /*Main */
-.appMount-3lHmkl {background: transparent url("/images/Haven.png") center/cover}
+.appMount-3lHmkl {background: transparent url("https://naccal.github.io/discord/images/Haven.png") center/cover}
 .theme-dark .layers-3iHuyZ {background: transparent}
 .theme-dark .layer-3QrUeG {background: transparent}
-.theme-dark .container-2lgZY8 {background: transparent url("/images/Haven.png") center/cover}
+.theme-dark .container-2lgZY8 {background: transparent url("https://naccal.github.io/discord/images/Haven.png") center/cover}
 
 /*Guild */
 .listItem-2P_4kh .button-OhfaWu {background: rgba(75, 74, 66, .8)}
-.listItem-2P_4kh .homeIcon-tEMBK1 {background: transparent url("/images/Haven_Icon.png") no-repeat center/cover;height: 36px;width: 36px}
+.listItem-2P_4kh .homeIcon-tEMBK1 {background: transparent url("https://naccal.github.io/discord/images/Haven_Icon.png") no-repeat center/cover;height: 36px;width: 36px}
 .listItem-2P_4kh .homeIcon-tEMBK1 path {display: none}
 
 
