@@ -119,9 +119,10 @@
 </div>
 
 </div>
-
+<!-
 <div id="Contact" class="tabcontent">
   <p>Got a question, Query or maybe you haven't received your item yet?, Fill this form out and I'll get back to you asap!</p>
+
 <?php
 $action=$_REQUEST['action'];
 if ($action=="")    /* display the contact form */
@@ -154,9 +155,10 @@ else                /* send the submitted data */
         mail("Zorai@naccal.com", $subject, $message, $from);
         echo "Email sent!";
         }
-    }  
+    }
 ?>
 </div>
+ ––>
 </div>
 <IMG STYLE="position:absolute; BOTTOM:0px; LEFT:0px; WIDTH:100%; HEIGHT:200px; pointer-events: none; selectable="false;" SRC="images/trees.png" ">
 	
