@@ -1,3 +1,13 @@
+/*
+Author: Zorai#8065
+Theme: Haven
+Version: 1.0.2
+Images: Images were made by Zorai, all rights reserved.
+website: https://naccal.github.io/
+Thank you Jiiks for the tutorial that got me started, Satoru8 for the GlowStatus and ChatBubble2 codes, thank you too Mixter213 for the member list scroller
+*/
+
+/*imports*/
 @import url('https://satoru8.github.io/Addons/GlowStatus.css'); /* Satoru8, GlowStatus master */
 @import url('https://satoru8.github.io/Addons/ChatBubbles/chatbubble2.css'); /* Satoru8, Chat Bubble master */
 @import url("https://mixter213.github.io/Discord/SubTheme/MemberlistScroller.css"); /* Makes the member list smaller and mouse over functionality */
