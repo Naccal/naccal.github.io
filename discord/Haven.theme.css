@@ -8,9 +8,9 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 */
 
 /*imports*/
-@import url('https://naccal.github.io/discord/addons/GlowStatus.css'); /* Satoru8, GlowStatus master */
-@import url('https://naccal.github.io/discord/addons/chatbubble2.css'); /* Satoru8, Chat Bubble master */
-@import url("https://naccal.github.io/discord/addons/MemberlistScroller.css"); /* Makes the member list smaller and mouse over functionality */
+@import url('https://satoru8.github.io/Addons/GlowStatus.css'); /* Satoru8, GlowStatus master */
+@import url('https://satoru8.github.io/Addons/ChatBubbles/chatbubble2.css'); /* Satoru8, Chat Bubble master */
+@import url("https://mixter213.github.io/Discord/SubTheme/MemberlistScroller.css"); /* Makes the member list smaller and mouse over functionality */
 
 :root {
 /* GlowStatus by Satoru8 */
