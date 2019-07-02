@@ -1,0 +1,12 @@
+/*https://satoru8.github.io/Addons/ChatBubbles/chatbubble2.css*/
+#app-mount .chat-3bRxxu .containerCozy-jafyvG {
+    background: rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 4px 0 var(--glow2);
+    margin: 15px;
+    border-radius: 15px
+}
+
+#app-mount .chat-3bRxxu .containerCozy-jafyvG:hover {
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 7px 0 var(--glow2)
+}
