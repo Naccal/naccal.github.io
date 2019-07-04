@@ -70,9 +70,9 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 .channel-2QD9_O .name-2WpE7M {color: rgba(212, 205, 186, .8)}
 .privateChannels-1nO12o header {opacity: 1;color: rgba(212, 205, 186, .4)}
 .theme-dark .channel-2QD9_O .name-2WpE7M {color: rgb(212, 205, 186)}
-/*.theme-dark .channel-2QD9_O:hover .name-2WpE7M {color: rgb(212, 205, 186)}
+.theme-dark .channel-2QD9_O:hover .name-2WpE7M {color: rgb(212, 205, 186)}
 .theme-dark .channel-2QD9_O:hover a {background: rgba(0, 0, 0, .3)}
-.theme-dark .listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh {background: rgba(0, 0, 0, .3)}*/
+.theme-dark .listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh {background: rgba(0, 0, 0, .3)}
 
 
 /*Chat */
