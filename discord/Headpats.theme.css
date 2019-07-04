@@ -35,7 +35,7 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 .listItem-2P_4kh .homeIcon-tEMBK1 path {display: none}
 
 
-#app-mount{background-image:url(https://naccal.github.io/discord/images/Headpats_Discord.png);background-size:cover;}
+#app-mount{background-image:url("https://naccal.github.io/discord/images/Headpats_Discord.png");background-size:cover;}
 
 .theme-dark .layer-3QrUeG,
 .theme-dark .layers-3iHuyZ{background:rgba(0,0,0,0.2)}
