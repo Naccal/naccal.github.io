@@ -44,7 +44,7 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 /*Channel */
 .channels-Ie2l6A {background: transparent}
 .container-PNkimc {background: transparent}
-/*.wrapper-1Rf91z:hover~div .channels-Ie2l6A,.channels-Ie2l6A:hover {width: 240px}*/
+/*.wrapper-1Rf91z:hover~div .channels-Ie2l6A,.channels-Ie2l6A:hover {width: 240px}
 .channels-Ie2l6A {background: rgba(0, 0, 0, .8);width: 0px;transition: .2s linear;overflow: hidden}
 .iconCollapsed-3hFp_8,.iconDefault-3Gr8d2,.nameCollapsed-34uFWo,.nameDefault-2DI02H {color: #f04747}
 .iconHovered-2L3-fB,.iconHoveredCollapsed-3caIIZ,.nameHovered-1gxhWH,.nameHoveredCollapsed-2orEWB {color: #bb3636}
@@ -70,12 +70,13 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 .channel-2QD9_O .name-2WpE7M {color: rgba(212, 205, 186, .8)}
 .privateChannels-1nO12o header {opacity: 1;color: rgba(212, 205, 186, .4)}
 .theme-dark .channel-2QD9_O .name-2WpE7M {color: rgb(212, 205, 186)}
-.theme-dark .channel-2QD9_O:hover .name-2WpE7M {color: rgb(212, 205, 186)}
+/*.theme-dark .channel-2QD9_O:hover .name-2WpE7M {color: rgb(212, 205, 186)}
 .theme-dark .channel-2QD9_O:hover a {background: rgba(0, 0, 0, .3)}
-.theme-dark .listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh {background: rgba(0, 0, 0, .3)}
+.theme-dark .listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh {background: rgba(0, 0, 0, .3)}*/
 
 
 /*Chat */
+.theme-dark .textArea-2Spzkt {color: hsla(100%,100%,100%,.7);}
 .theme-dark .chat-3bRxxu,.theme-dark .content-yTz4x3 {background: transparent}
 .theme-dark .messagesWrapper-3lZDfY {background: transparent}
 .channelTextArea-rNsIhG {margin: 0;padding-top: 26px}
@@ -94,8 +95,8 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 .theme-dark .wrapper-3WhCwL {background: transparent;color: #d63e3e;font-weight: bold;text-shadow: 0 0 0 currentColor, -1px -1px 4px rgba(20, 24, 26, .4), -1px -1px 6px rgba(20, 24, 26, 1)}
 .isMentionedCozy-3isp7y:after {background: #c86565;border-color: #d63e3e}
 .theme-dark .isMentioned-N-h9aa {background: rgba(214, 62, 62, .2)}
-.theme-dark .wrapperHover-1GktnT:hover {color: #f04747;background: rgba(214, 62, 62, .2)}
-.theme-dark .isMentioned-N-h9aa .mention:hover {color: #f04747}
+/*.theme-dark .wrapperHover-1GktnT:hover {color: #f04747;background: rgba(214, 62, 62, .2)}
+.theme-dark .isMentioned-N-h9aa .mention:hover {color: #f04747}*/
 .theme-dark .spoilerText-3p6IlD {background: rgba(20, 24, 26, .4);border-radius: 0}
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {background: rgba(20, 24, 26, .8)}
 .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover {background: rgba(20, 24, 26, .6)}
