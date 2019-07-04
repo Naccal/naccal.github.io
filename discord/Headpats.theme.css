@@ -44,15 +44,15 @@ Thanks: a very special Thank you Jiiks for the tutorial that got me started, Sat
 /*Channel */
 .channels-Ie2l6A {background: transparent}
 .container-PNkimc {background: transparent}
-.wrapper-1Rf91z:hover~div .channels-Ie2l6A,.channels-Ie2l6A:hover {width: 240px}
+/*.wrapper-1Rf91z:hover~div .channels-Ie2l6A,.channels-Ie2l6A:hover {width: 240px}*/
 .channels-Ie2l6A {background: rgba(0, 0, 0, .8);width: 0px;transition: .2s linear;overflow: hidden}
 .iconCollapsed-3hFp_8,.iconDefault-3Gr8d2,.nameCollapsed-34uFWo,.nameDefault-2DI02H {color: #f04747}
 .iconHovered-2L3-fB,.iconHoveredCollapsed-3caIIZ,.nameHovered-1gxhWH,.nameHoveredCollapsed-2orEWB {color: #bb3636}
 .theme-dark .icon-1_QxNX {display: none}
-.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU,.channel-2QD9_O.selected-1HYmZZ a {background: rgba(0, 0, 0, .2)}
+/*.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU,.channel-2QD9_O.selected-1HYmZZ a {background: rgba(0, 0, 0, .2)}
 .theme-dark .wrapper-1ucjTd:hover .content-3at_AU,.theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_:hover .content-3at_AU {background: rgba(0, 0, 0, .3)}
 .theme-dark .wrapper-1ucjTd .name-3_Dsmg {color: rgb(182, 186, 188)}
-#app-mount .wrapper-1ucjTd:hover .name-3_Dsmg {color: rgb(220, 221, 222)}
+#app-mount .wrapper-1ucjTd:hover .name-3_Dsmg {color: rgb(220, 221, 222)}*/
 .theme-dark .wrapper-1ucjTd.modeMuted-3osy7j .name-3_Dsmg {color: rgb(90, 94, 96)}
 .theme-dark .wrapper-1ucjTd.modeSelected-1zApJ_ .name-3_Dsmg {color: rgb(255, 255, 255)}
 .theme-dark .wrapper-1ucjTd.modeConnected-2IEL4z .name-3_Dsmg {color: rgb(255, 255, 255)}
