@@ -1,0 +1,31 @@
+/*Insert the link as a browser Source Kit found here https://streamkit.discord.com/overlay then paste this code block in Custom CSS*/
+/*Edits by ZoraiNaccal*/
+li.voice-state:not([data-reactid*="DiscordID"])/*Place your DiscordID here*/ { display:none; }
+.avatar {
+content:url(NotSpeakingURL); /*Place your NotSpeakingURL here*/
+  height:auto !important;
+  width:auto !important;
+  border-radius:0% !important;
+  filter: brightness(50%); /*Change brightness to 100% for no dim affect*/
+}
+
+.speaking {
+  border-color:rgba(0,0,0,0) !important;
+  position:relative;
+  animation-name: speak-now;
+  animation-duration: 1s;
+  animation-fill-mode:forwards;
+  filter: brightness(100%);
+content:url(SpeakingURL); /*Place your SpeakingURL here*/
+}
+
+@keyframes speak-now {
+  0% { bottom:0px;  }
+  15% { bottom:10px;  }
+  30% { bottom:0px;  }
+}
+
+li.voice-state{ position: static; }
+div.user{ position: absolute; left:40%; bottom:5%; }
+
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
