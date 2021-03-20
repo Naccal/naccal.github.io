@@ -1,5 +1,12 @@
-/*Insert the link as a browser Source Kit found here https://streamkit.discord.com/overlay then paste this code block in Custom CSS*/
-/*Edits by ZoraiNaccal*/
+/*
+CSS code by ZoraiNaccal
+
+Insert the link as a browser Source found here https://streamkit.discord.com/overlay then paste this code block in Custom CSS
+Create a Browser source for the kit you have in the Below Link,
+Take that link and place it within the browser source, then create a box large enough to enclose your image, For me 2032 by 2983 then Resize as nessesery.
+Take the Code block and change the nessesery data DiscordID, SpeakingURL, NotSpeakingURL To your own and place it in Custom CSS
+You might need to ChromaKey/ColourKey your images if you don't use a transparent background.
+*/
 li.voice-state:not([data-reactid*="DiscordID"])/*Place your DiscordID here*/ { display:none; }
 .avatar {
 content:url(NotSpeakingURL); /*Place your NotSpeakingURL here*/
@@ -18,7 +25,7 @@ content:url(NotSpeakingURL); /*Place your NotSpeakingURL here*/
   filter: brightness(100%);
 content:url(SpeakingURL); /*Place your SpeakingURL here*/
 }
-
+/*Thers no need to change below here if you don't want too*/
 @keyframes speak-now {
   0% { bottom:0px;  }
   15% { bottom:10px;  }
@@ -27,5 +34,4 @@ content:url(SpeakingURL); /*Place your SpeakingURL here*/
 
 li.voice-state{ position: static; }
 div.user{ position: absolute; left:40%; bottom:5%; }
-
 body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
