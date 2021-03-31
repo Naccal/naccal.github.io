@@ -1,12 +1,10 @@
-/*
-CSS code by ZoraiNaccal
+/*CSS code by ZoraiNaccal
 
 Insert the link as a browser Source found here https://streamkit.discord.com/overlay then paste this code block in Custom CSS
 Create a Browser source for the kit you have in the Below Link,
 Take that link and place it within the browser source, then create a box large enough to enclose your image, For me 2032 by 2983 then Resize as nessesery.
 Take the Code block and change the nessesery data DiscordID, SpeakingURL, NoSpeakingURL To your own and place it in Custom CSS
-You might need to ChromaKey/ColourKey your images in both Dim and light states if you don't use a transparent background.
-*/
+You might need to ChromaKey/ColourKey your images in both Dim and light states if you don't use a transparent background.*/
 li.voice-state:not([data-reactid*="DiscordID"])/*Place your DiscordID here*/ { display:none; }
 .avatar {
 content:url(NoSpeakingURL); /*Place your NoSpeakingURL here*/
